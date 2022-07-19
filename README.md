@@ -3,7 +3,7 @@ quize  app using django framework
 
 ### To Run this project 
 
-1. clone this project : ``` git clone https://github.com/shubhamAW/quiz_app.git```
+1. clone this project : ``` git clone https://github.com/bhalerao-2002/Quiz_App.git```
 
 2. go to the project folder : ```cd quiz_app```
 
@@ -16,12 +16,6 @@ quize  app using django framework
 6. Now run this project using : ```python manage.py runserver```
 
 7. head over to http://127.0.0.1:8000/ to see the output 
-
-8. output : 
-
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/66414385/170915168-764fed6a-47cb-4c23-93aa-306635d94371.png">
-
-<img width="800" alt="image" src="https://user-images.githubusercontent.com/66414385/170915338-d6d78b41-d8b4-4229-b7e5-806d19b7caac.png">
 
 
 ### Useful resources :
