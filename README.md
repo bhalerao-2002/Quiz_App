@@ -1,4 +1,7 @@
 # quiz_app
+
+The Quiz App is a Django-based web application that enables users to create and participate in quizzes. It provides a user-friendly interface and efficient quiz management. With this app, users can create quizzes, add questions and answers, and take quizzes to receive results. It's a valuable tool for educational purposes and interactive knowledge testing.
+
 quize  app using django framework 
 
 ### To Run this project 
